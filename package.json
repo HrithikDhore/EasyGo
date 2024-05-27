@@ -1,17 +1,18 @@
 {
-  "name": "merged-project",
+  "name": "EasyGo Technologies",
   "version": "1.0.0",
-  "description": "Merged project description",
+  "description": "This is EasyGo Technologies Login and Registration Page",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js",
     "client-start": "react-scripts start",
     "client-build": "react-scripts build",
     "client-test": "react-scripts test",
-    "client-eject": "react-scripts eject"
+    "client-eject": "react-scripts eject",
+    "build": "npm run client-build"
   },
   "keywords": [],
-  "author": "Combined Authors",
+  "author": "EasyGo Technologies",
   "license": "ISC",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

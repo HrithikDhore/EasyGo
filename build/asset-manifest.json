@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab69fb39.css",
+    "main.js": "/static/js/main.184f8762.js",
+    "static/js/453.e354ece1.chunk.js": "/static/js/453.e354ece1.chunk.js",
+    "static/media/easygologo.png": "/static/media/easygologo.e7cabcb35baffa706eff.png",
+    "static/media/fluegas.png": "/static/media/fluegas.9dfca478e19b5c79240b.png",
+    "index.html": "/index.html",
+    "main.ab69fb39.css.map": "/static/css/main.ab69fb39.css.map",
+    "main.184f8762.js.map": "/static/js/main.184f8762.js.map",
+    "453.e354ece1.chunk.js.map": "/static/js/453.e354ece1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab69fb39.css",
+    "static/js/main.184f8762.js"
+  ]
+}
